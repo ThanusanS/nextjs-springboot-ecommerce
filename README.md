@@ -13,7 +13,7 @@
 
 **A production-grade, full-stack e-commerce platform built for portfolio demonstration.**
 
-[Live Demo](#) · [API Docs](#api-endpoints) · [Report Bug](https://github.com/yourusername/shopsphere/issues)
+[Live Demo](https://amiable-wholeness-production-b20d.up.railway.app/) · [API Docs](#api-endpoints) · [Report Bug](https://github.com/yourusername/shopsphere/issues)
 
 </div>
 
