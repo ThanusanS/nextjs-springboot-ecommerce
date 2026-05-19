@@ -468,8 +468,8 @@ npm start
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@ThanusanS](https://github.com/ThanusanS)
+- LinkedIn: [thanusanms](https://www.linkedin.com/in/thanusanms/)
 - Email: thanusan.se@gmail.com
 
 ---
