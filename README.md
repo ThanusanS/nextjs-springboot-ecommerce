@@ -186,7 +186,7 @@ users ──────────────── cart (1:1)
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Authentication — `/api/v1/auth`
 | Method | Endpoint        | Auth  | Description              |
