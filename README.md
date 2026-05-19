@@ -1,8 +1,8 @@
 # 🛒 ShopSphere — Modern E-Commerce Platform
 
-<div align="center">
-
-![ShopSphere Banner](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=300&fit=crop)
+<p align="center">
+  <img src="docs/banner1.png" width="100%" />
+</p>
 
 [![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.3-green?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
