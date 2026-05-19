@@ -13,7 +13,7 @@
 
 **A production-grade, full-stack e-commerce platform built for portfolio demonstration.**
 
-[Live Demo](https://amiable-wholeness-production-b20d.up.railway.app/) · [API Docs](#api-endpoints) · [Report Bug](https://github.com/yourusername/shopsphere/issues)
+[Live Demo](https://amiable-wholeness-production-b20d.up.railway.app/) · [API Docs](#api-endpoints) · [Report Bug](https://github.com/ThanusanS/nextjs-springboot-ecommerce/issues)
 
 </div>
 
@@ -262,7 +262,7 @@ users ──────────────── cart (1:1)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/shopsphere.git
+git clone https://github.com/ThanusanS/nextjs-springboot-ecommerce.git
 cd shopsphere
 ```
 
