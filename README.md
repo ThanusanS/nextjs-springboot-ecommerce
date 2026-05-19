@@ -408,8 +408,6 @@ Request → JwtAuthenticationFilter
 
 ## 📸 Screenshots
 
-> Add screenshots of your running application here.
-
 | Page              | Description                          |
 |-------------------|--------------------------------------|
 | Homepage          | Hero, categories, featured products  |
